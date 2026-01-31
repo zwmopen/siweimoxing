@@ -1,0 +1,6 @@
+@echo off
+echo 启动思维模型编辑器...
+echo 正在打开优化版编辑器，请稍候...
+start "" "optimizedModelEditor.html"
+echo 如果浏览器没有自动打开，请手动双击 optimizedModelEditor.html 文件。
+pause
